@@ -11,9 +11,9 @@
 
 ## 2. Mathematical Equation
 > celcius ke reamur
-> R = \frac{4}{5} \cdot C
+> $$R = \frac{4}{5} \cdot C$$
 > celcius ke farenheit
-> F = \left(\frac{9}{5} \cdot C\right) + 32
+> $$F = \left(\frac{9}{5} \cdot C\right) + 32$$
 
 ## 3. Algorithm
 > 1. Mulai
