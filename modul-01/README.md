@@ -13,7 +13,19 @@
 > celcius ke reamur
 > R = \frac{4}{5} \cdot C
 > celcius ke farenheit
-> F = \left(\frac{9}{5} \cdot C\right) + 32bu
+> F = \left(\frac{9}{5} \cdot C\right) + 32
 
 ## 3. Algorithm
-> Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
+> 1. Mulai
+> 2. Cetak/Print Judul "Program Konverensii Suhu"
+> 3. Print "Nama: Azeilya Junits"
+> 4. Print "NIM: 1306625032
+> 5. Input "Suhu Awal:..."
+> 6. Input "Suhu Akhir:..."
+> 7. Input "Selang:..."
+> 8. Print "Tabel Konverso"
+> 9. Print "Tabel..."
+> 10. Hitung Celcius ke Reamur: 4/5
+> 11. Hhitung Celcius ke Farenheit:
+> 12. Print Hasil
+> 13. Selesai
