@@ -10,9 +10,7 @@
 > Membuat sebuah program untuk menghitung konversi suhu celcius-reamur-farenheit
 
 ## 2. Mathematical Equation
-> celcius ke reamur
 > $$R = \frac{4}{5} \cdot C$$
-> celcius ke farenheit
 > $$F = \left(\frac{9}{5} \cdot C\right) + 32$$
 
 ## 3. Algorithm
