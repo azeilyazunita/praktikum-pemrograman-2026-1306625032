@@ -7,7 +7,7 @@
 ---
 
 ## 1. Problem Statement
-> Membuat sebuah program untuk menghitung konversi suhu celcius-reamur-farenheit
+> Membuat program yang dapat mengonversi suhu dari celcius ke reamur dan celcius ke fahrenheit. Dengan meminta pengguna memasukkan suhu awal, suhu akhir, dan selamg dalam derajat celcius, kemudia program menampilkan tabel suhu yang telah dikonversi ke dalam derajat reamur dan fahrenheit.
 
 ## 2. Mathematical Equation
 > $$R = \frac{4}{5} \cdot C$$
@@ -18,12 +18,19 @@
 > 2. Cetak/Print Judul "Program Konverensii Suhu"
 > 3. Print "Nama: Azeilya Junits"
 > 4. Print "NIM: 1306625032
-> 5. Input "Suhu Awal:..."
-> 6. Input "Suhu Akhir:..."
-> 7. Input "Selang:..."
-> 8. Print "Tabel Konverso"
-> 9. Print "Tabel..."
-> 10. Hitung Celcius ke Reamur: 4/5
-> 11. Hhitung Celcius ke Farenheit:
-> 12. Print Hasil
-> 13. Selesai
+> 5. Masukkan suhu awal, suhu akhir, dan selang sebagai data float
+> 6. Print "Tabel Konversi"
+> 9. Print garis "=" sebanyak 55 untuk membuat garis atas taabel
+> 10. Print header dengan kolom "No.", "Celcius", "Reamur", dan "Fahrenheit"
+> 11. Print garis "=" senamyak 55 untuk membuat garis bawah header
+> 12. Inisialisasi n = 1 dan c = suhu awal
+> 13. Selama c ≤ suhu akhir, lakukan:
+      13.1  Hhitung celcius = c, dibulatkan 3 desimal
+>     13.2 Hitung reamur = c.4/5, dibulatkan 3 desimal
+>     13.3 Hitung fahrenheit = (c.9/5) + 32, dibulatkan 3 desimal
+>     13.4 Print baris tabel berisi n, celcius, reamur, dan fahrenheit
+>     13.5 Tambahkan selang ke c (c = c + selang)
+>     13.6 Tambahkan 1 ke n (n = n + 1)
+> 15. Print garis "=" sebanyak 55 untuk membuat garis bawah tabel
+> 16. Print "Program Selesai"
+> 17. Selesai
