@@ -25,7 +25,7 @@
 > 11. Print garis "=" senamyak 55 untuk membuat garis bawah header
 > 12. Inisialisasi n = 1 dan c = suhu awal
 > 13. Selama c ≤ suhu akhir, lakukan:
-      13.1  Hhitung celcius = c, dibulatkan 3 desimal
+>     13.1 Hitung celcius = c, dibulatkan 3 desimal
 >     13.2 Hitung reamur = c.4/5, dibulatkan 3 desimal
 >     13.3 Hitung fahrenheit = (c.9/5) + 32, dibulatkan 3 desimal
 >     13.4 Print baris tabel berisi n, celcius, reamur, dan fahrenheit
