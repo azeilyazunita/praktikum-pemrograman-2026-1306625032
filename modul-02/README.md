@@ -1,6 +1,7 @@
 # Modul [02] - [Mencari Faktor Bilangan]
 
 **Nama:** [Azeilya Junita]
+
 **NIM:** [1306625032]  
 **Kelas:** [Fisika C]  
 
